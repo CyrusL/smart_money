@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    smart_money (1.0.0)
+      money
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    i18n (0.6.0)
+    json (1.7.4)
+    money (5.0.0)
+      i18n (~> 0.4)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  smart_money!
